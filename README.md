@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=210&section=header&text=Disha%20Sonkar&fontSize=54&fontColor=F8FAFC&fontAlignY=38&desc=GENERATIVE%20AI%20%7C%20LLM%20APPLICATIONS%20%7C%20AGENTIC%20SYSTEMS&descSize=15&descAlignY=63&descColor=94A3B8" width="100%" alt="Disha Sonkar — Generative AI Engineer"/>
+<img src="https://raw.githubusercontent.com/Disha-pro/Disha-pro/main/assets/aurora-header.svg" width="100%" alt="Animated aurora banner — Disha Sonkar, Generative AI Engineer"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2600&pause=700&color=7FE8E2&center=true&vCenter=true&width=850&height=45&lines=Engineering+grounded+LLM+applications;Designing+RAG+%26+Agentic+AI+workflows;Python+%7C+LangGraph+%7C+Azure+AI+%7C+FastAPI" alt="Animated role and focus line"/>
 
 <h3>Generative AI Engineer · Python · RAG · Agentic AI</h3>
 
@@ -151,7 +153,7 @@ I’m interested in building useful AI systems, strengthening engineering practi
 <a href="https://www.linkedin.com/in/dishasonkar">LinkedIn</a> ·
 <a href="https://github.com/Disha-pro">GitHub</a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=75&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071C2C,50:312E81,100:0B1220&height=130&section=footer" width="100%" alt="Aurora gradient footer"/>
 
 <sub>Building with curiosity. Engineering with evidence.</sub>
 
