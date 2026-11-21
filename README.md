@@ -1,97 +1,158 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Disha%20Sonkar&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Applied%20AI%20%2F%20GenAI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=210&section=header&text=Disha%20Sonkar&fontSize=54&fontColor=F8FAFC&fontAlignY=38&desc=GENERATIVE%20AI%20%7C%20LLM%20APPLICATIONS%20%7C%20AGENTIC%20SYSTEMS&descSize=15&descAlignY=63&descColor=94A3B8" width="100%" alt="Disha Sonkar — Generative AI Engineer"/>
+
+<h3>Generative AI Engineer · Python · RAG · Agentic AI</h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/dishasonkar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dishaa.sonkar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Disha-pro"><img src="https://img.shields.io/badge/GitHub-Disha--pro-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Disha Sonkar</h1>
-<h3 align="center">Applied AI / Generative AI Engineer | RAG Systems | LLM Evaluation</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Building+RAG+Pipelines+with+LangChain+%26+Mistral+AI;Turning+Data+into+Decisions+with+Python+%26+SQL;Ex-Business+Analyst+%40+ICICI+Bank+(via+Prevoyance+IT);Open+to+Applied+AI+%2F+GenAI+Engineer+Roles" alt="Typing SVG" />
+<p>
+  <img src="https://img.shields.io/badge/Location-India-64748B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Availability-Open%20to%20Opportunities-16A34A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-GenAI%20Engineering-7C3AED?style=flat-square"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Disha-pro"><img src="https://komarev.com/ghpvc/?username=Disha-pro&style=for-the-badge&color=blueviolet" alt="Profile views"/></a>
-</p>
+</div>
 
 ---
 
-### 🚀 About Me
+## Profile
 
-- 🎯 Currently focused on **Applied AI / Generative AI Engineering** — RAG pipelines, LLM evaluation, and agentic workflows
-- 💼 Previously worked as a **Business Analyst** at Prevoyance IT Solutions, on the **ICICI Bank** account
-- 🎓 B.Tech in Computer Technology Engineering, RTM Nagpur University
-- 🌱 Deepening my skills in **LangChain, RAG architectures, Vector Databases, and LLM-powered applications**
-- 📍 Based in Nagpur, Maharashtra — open to opportunities in Hyderabad, Pune & Bengaluru
-- 💬 Ask me about **RAG systems, LLM evaluation, data analytics, and dashboarding**
+I build practical AI applications that connect **LLMs, retrieval systems, data, and backend services**. My current focus is on developing reliable LLM-powered workflows using Python, Retrieval-Augmented Generation (RAG), Agentic AI patterns, and API-based integrations.
 
----
+I bring **one year of professional banking analytics experience** at Prevoyance IT Solutions, working on the ICICI Bank account, alongside hands-on project work in Generative AI and application development.
 
-### 🧠 GenAI / Applied AI Stack
+My approach combines analytical problem-solving with applied engineering: understand the problem, design the workflow, ground outputs in evidence, and make the system observable and testable.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mistral_AI-FA520F?style=for-the-badge&logo=mistralai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Evaluation-6E56CF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=for-the-badge" />
-</p>
+## Areas of Focus
 
-### 🛠️ Tools & Technologies
+| Generative AI | Retrieval & Knowledge Systems | Application Engineering |
+|---|---|---|
+| LLM applications | RAG pipelines | Python |
+| Agentic AI workflows | Vector search & embeddings | FastAPI & REST APIs |
+| Prompt engineering | Query routing & rewriting | Pydantic & structured JSON |
+| Tool calling | Evidence grading | API integration |
+| LLM evaluation | Grounded responses & citations | Telemetry & monitoring |
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+## Featured Projects
+
+### 01 · UrbanCart AI Shopping Assistant
+**Multilingual RAG · Customer Support Automation · Working Prototype**
+
+An AI shopping-support assistant designed to answer catalog and policy questions in English, Hindi, and Hinglish. The workflow combines intent routing, retrieval, tool calling, customer-aware order lookup, and human handoff.
+
+- Built a RAG workflow over product catalog and policy data using ChromaDB.
+- Implemented tool-based flows for stock, order status, alternatives, policy answers, and support tickets.
+- Evaluated the system against a 300-query chat-log test set.
+- Project evaluation reports handled-query coverage increasing from 44.0% to 60.3%; human tickets decreasing from 78 to 5.
+- Includes a FastAPI endpoint and a Gradio interface; order operations are mocked.
+
+**Stack:** Python · LangChain · ChromaDB · RAG · FastAPI · Gradio · Tool Calling
+
+[View UrbanCart repository](https://github.com/Disha-pro/UrbanCart-AI-Shopping-Assistant)
 
 ---
 
-### 💼 Experience
+### 02 · Video Compliance AI
+**Multimodal Video Processing · LangGraph · Azure AI**
 
-**Business Analyst** — Prevoyance IT Solutions *(Client: ICICI Bank)*
-`Feb 2025 – Jan 2026`
-- Bridged business requirements and technical delivery for banking workflows
-- Worked with data analysis, reporting, and stakeholder communication in a regulated financial environment
+An AI-assisted video compliance auditing project that processes video content, extracts transcript and on-screen text, retrieves relevant compliance guidance, and prepares structured audit findings.
 
----
+- Integrated YouTube video ingestion with Azure Video Indexer processing.
+- Implemented a two-node LangGraph workflow for indexing and compliance auditing.
+- Connected Azure OpenAI and Azure AI Search for LLM-based analysis and knowledge retrieval.
+- Built FastAPI endpoints for audit submission, session identification, health checks, and structured responses.
+- Added Azure Application Insights and OpenTelemetry instrumentation.
 
-### 📊 GitHub Stats
+**Stack:** Python · FastAPI · LangGraph · LangChain · Azure Video Indexer · Azure OpenAI · Azure AI Search · OpenTelemetry
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Disha-pro&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Disha-pro&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+**Status:** Active development; end-to-end cloud deployment and complete audit flow remain under validation.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disha-pro&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+[View Video Compliance AI repository](https://github.com/Disha-pro/Video-Complaince-AI-)
 
 ---
 
-### 📫 Connect With Me
+### 03 · CortexRAG
+**Adaptive Agentic RAG · Self-Correction · LLM Evaluation**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Disha-pro" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+An Agentic RAG application that routes queries, grades retrieved evidence, retries weak retrieval through query rewriting, and uses web search when the private knowledge base is insufficient.
+
+- Orchestrated retrieval and self-correction using LangGraph.
+- Used Pinecone for vector retrieval and Tavily for web-search fallback.
+- Added PDF text and table extraction with page-level metadata and citations.
+- Implemented LLM-as-a-Judge evaluation for Faithfulness, Answer Relevance, Context Relevance, and Groundedness.
+- Exposed execution paths and node-level traces through a Streamlit interface.
+
+**Stack:** Python · LangGraph · LangChain · Pinecone · Groq · Hugging Face · Tavily · PyMuPDF · Streamlit
+
+[View CortexRAG repository](https://github.com/Disha-pro/CortexRAG-Adaptive-Agentic-RAG-with-Self-Correction-Evaluation)
+
+---
+
+## Technical Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-6B46C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer" />
-</p>
+**GenAI & LLMs:** Generative AI, LLM applications, RAG, Agentic AI, prompt engineering, tool calling, structured outputs, multimodal processing.
+
+**Retrieval & Evaluation:** Embeddings, semantic search, vector databases, query routing, query rewriting, evidence grading, LLM-as-a-Judge, groundedness, source citations.
+
+**Cloud & Observability:** Azure OpenAI, Azure AI Search, Azure Video Indexer, Azure Application Insights, Azure Monitor, OpenTelemetry.
+
+**Data & Analytics:** SQL, Pandas, Power BI, Power Query, Advanced Excel, data cleaning and analysis.
+
+## Professional Experience
+
+**Analyst — Prevoyance IT Solutions**  
+*Client: ICICI Bank · February 2025 – January 2026*
+
+- Analysed 20K+ monthly banking transactions using SQL to identify failure trends, operational exceptions, and response-code patterns.
+- Developed Power BI dashboards to track transaction volumes, SLA compliance, and ageing metrics.
+- Automated recurring reporting workflows using Power Query and Advanced Excel.
+
+## Education
+
+**B.Tech — Computer Technology Engineering**  
+RTM Nagpur University · 2020–2024
+
+**Generative AI & Agentic AI Program**  
+Learnbay · 2026
+
+## What I’m Looking For
+
+Opportunities in **Generative AI Engineering, Junior AI Engineering, RAG Engineering, LLM Application Development, and Python AI Development**.
+
+I’m interested in building useful AI systems, strengthening engineering practices, and contributing to teams taking LLM applications from prototypes toward reliable software.
+
+---
+
+<div align="center">
+
+### Let’s connect
+
+<a href="mailto:dishaa.sonkar@gmail.com">dishaa.sonkar@gmail.com</a> ·
+<a href="https://www.linkedin.com/in/dishasonkar">LinkedIn</a> ·
+<a href="https://github.com/Disha-pro">GitHub</a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=75&section=footer" width="100%" alt=""/>
+
+<sub>Building with curiosity. Engineering with evidence.</sub>
+
+</div>
